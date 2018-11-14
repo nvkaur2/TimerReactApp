@@ -1,2 +1,0 @@
-# TimerReactApp
-Created with CodeSandbox
